@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page
 
-You can use the [editor on GitHub](https://github.com/icfly2/icfly2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page serves as a langing page for a range of different projects I have been working on and are being moved to github as a central location.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Topics
+There are several topics I am interested in that I share content about here:
+
+### Sailing
+- Rigging and cheating at the americas cup, a statistical analysis
+- A self learning autpilot in python
+- Optimal stochastic routing
+
+### Computation
+- simple multiprcessing for pandas
+- [a nice dynamic and stocastic programming solver](https://icfly2.github.io/hjb_solvers/)
 
 ### Markdown
 
